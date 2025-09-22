@@ -51,6 +51,7 @@ ACK_final = SEQ_last + (13 × MSS)
            = 417322 + (1453 × 13)  
            = 436211
 ```
+<img width="1528" height="483" alt="wireshark_report" src="https://github.com/user-attachments/assets/6d57dcad-67f3-4035-87cf-5fab0bb27bb7" />
 
 This confirms retransmissions are acknowledged and transmission resumes normally.  
 
